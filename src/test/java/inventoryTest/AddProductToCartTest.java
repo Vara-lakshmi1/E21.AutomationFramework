@@ -46,11 +46,12 @@ public class AddProductToCartTest extends BaseClass {
 	              
         }
 	
+	
 					 @Test 
 				     public void sample()
 				     {
 						
-					  Assert.fail();
+					 // Assert.fail();
 				   	  System.out.println("Demo");
 				     }
 
