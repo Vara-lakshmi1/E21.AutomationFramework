@@ -34,6 +34,8 @@ public class AddProductToCart {
 		{
 			System.out.println(productIncart);
 			System.out.println("Pass");
+			System.out.println("Pass");
+			System.out.println("Pass");
 		}
 		else 
 		{
